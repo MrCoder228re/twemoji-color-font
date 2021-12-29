@@ -223,7 +223,7 @@ devscripts python3-fontforge python3-pip python3-yaml imagemagick \
 git make debhelper build-essential
 sudo npm install -g svgo
 sudo pip3 install fonttools
-git clone https://github.com/eosrei/twemoji-color-font.git
+git clone https://github.com/MrCoder228re/twemoji-color-font.git
 cd twemoji-color-font
 git clone https://github.com/13rac1/scfbuild.git SCFBuild
 make -j 4
